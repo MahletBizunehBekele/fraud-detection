@@ -8,3 +8,4 @@ shap
 jupyter 
 joblib
 xgboost
+shap
